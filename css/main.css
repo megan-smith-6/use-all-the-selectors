@@ -34,6 +34,22 @@ nav ul {
   color: #93a1a1;
 }
 
-wrapper .dfn {
+wrapper > .dfn {
   background-color: #b58900;
+}
+
+div + p + strong {
+  color: #fff;
+}
+
+a:not(.no-highlght) {
+  background-color: #719e07;
+}
+
+main ul li:nth-child(3n) {
+  background-color: #2694d8;
+}
+
+li ol {
+  color: #719e47;
 }
