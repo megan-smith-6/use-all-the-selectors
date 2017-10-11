@@ -50,22 +50,22 @@ main ul li:nth-child(3n) {
   background-color: #2694d8;
 }
 
-ol li:first-child{
+ol li:first-child {
   color: #719e47;
 }
 
-ol li:last-child{
+ol li:last-child {
   color: #2aa198;
 }
 
-.types li:nth-child(odd){
+.types li:nth-child(odd) {
   background-color: #657ba3;
 }
 
-.types li:nth-child(even){
+.types li:nth-child(even) {
   background-color: #586e75;
 }
 
-.types li:nth-child(3n){
+.types li:nth-child(3n) {
   background-color: #d04b16;
 }
